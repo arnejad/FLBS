@@ -1,7 +1,7 @@
 # A Fast and Light Brain MRI Segmentatin Framework for Clinical Applications
 
-This code is an implementation of the paper sumbitted to 2022 IEEE Symposium on Biomedical Imaging (in case of acceptance the link will be provided). 
-
+<!-- This code is an implementation of the paper sumbitted to 2022 IEEE Symposium on Biomedical Imaging (in case of acceptance the link will be provided). 
+ -->
 This framework is a method for brain segmentation for clinical use. For this reason our approach works with the minimum GPU requirements and reasonable time.
 
 ![Segmenation result](./patch_seg_res.jpg)
@@ -42,7 +42,7 @@ Post-process merges all the predictions into a single segmentation map. Run the 
 In case of using this code in your research or project please cite the paper below:
 
 ```
-The citation will be provided in case of recieving an acceptance from ISBI 2022.
+
 ```
 
 ## 5. Remark and Acknowledgement
