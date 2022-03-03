@@ -51,6 +51,6 @@ This code has been implemented at Research Center for Science and Technology in 
 This project was funded by Iran's National Elites Foundation (بنیاد ملی نخبگان).
 
 ## 6. Problem Shooting
-In case of any problem in installation and running, feel free to create an issue. For a quicker response, send an email to [r.nejad.a@gmail.com](mailto:r.nejad.a@gmail.com). It is our honor to help the clinics and hospitals to have an easier experiment while working with out application. 
+In case of any problem in installation and running, feel free to create an issue. For a quicker response, send an email to [ashkan@nejad.info](mailto:ashkan@nejad.info). It is our honor to help the clinics and hospitals to have an easier experiment while working with out application. 
 
 In case you need the application but you do not have MATLAB, send an email to the mentioned address and we will provide you with `.exe` files.
