@@ -1,6 +1,6 @@
 # A Fast and Light Brain MRI Segmentatin Framework for Clinical Applications
 
-This code is an implementation of the our paper ([IEEEXplore](https://ieeexplore.ieee.org/document/9871715/)) in EMBC 20222.
+This code is an implementation of the our paper ([IEEEXplore](https://ieeexplore.ieee.org/document/9871715/)) in EMBC 2022.
 
 This framework is a method for brain segmentation for clinical use. For this reason our approach works with the minimum GPU requirements and reasonable time.
 
